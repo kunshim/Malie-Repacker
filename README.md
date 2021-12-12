@@ -1,4 +1,5 @@
 # Malie-Repacker
+[![Build Status](https://travis-ci.org/ForumHulp/pageaddon.svg?branch=master)](http://vnx.uvnworks.com)\
 Simple malie engine resource repack/unpacker made by C#\
 *Now, only the files of 相州戦神館學園 八命陣 have been tested.*
 
