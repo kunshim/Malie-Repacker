@@ -10,9 +10,8 @@ Malie-Repacker automatically  detects and unpack file.
 ### Speed
 Camelia cipher implemented in [openssl](https://github.com/openssl/openssl) was converted to C#.\
 Multi-threads are used when packing/unpacking multiple files.\
-Faster more 30% than [GARbro](https://github.com/morkt/GARbro).\
-It took about 100 seconds to unpack 11GB files on my system.\
-(i7-1165G7, NVME SSD)
+Single file unpack speed is similar as [GARbro](https://github.com/morkt/GARbro).\
+When multi-threads are using, it's much faster. 
 ### Repack
 It support repackaging.
 ## Contact
