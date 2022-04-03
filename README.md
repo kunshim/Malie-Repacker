@@ -12,8 +12,7 @@ Camelia cipher implemented in [openssl](https://github.com/openssl/openssl) was 
 Multi-threads are used when packing/unpacking multiple files.\
 Single file unpack speed is similar as [GARbro](https://github.com/morkt/GARbro).\
 When multi-threads are using, it's much faster. 
-### Repack
-It support repackaging.
+
 ## Contact
 If you have any questions, please use Issue.
 
