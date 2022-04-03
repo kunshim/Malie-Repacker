@@ -1,6 +1,6 @@
 # Malie-Repacker
 [![Build Status](https://travis-ci.org/ForumHulp/pageaddon.svg?branch=master)](http://vnx.uvnworks.com)\
-Simple malie engine resource repack/unpacker made by C#\
+Simple malie engine resource repack/unpacker made by C#
 
 ## Feature
 ### Easy to use
